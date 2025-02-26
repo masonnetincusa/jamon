@@ -1,0 +1,13 @@
+<html> (Every HTML page starts with this)
+</html> (Every HTML page ends with this)
+<p>Text!</p> (Add text)
+<h1>Heading!</h1> (Add heading)
+<center>I'm in the center!</center> (Put something in the center, can be anything)
+<title>Page title</title> (The title of the page)
+<b><p>Bold!</p></b> (Bold text)
+<font size="fontsize" color="fontcolor">Text</font> (Specify font properties such as size and color.)
+<img src="URL, like https://masonnetincusa.github.io/MASONNET/IMG_0427.png, must end with a file extension, like .jpg, .png, .svg, .webm, etc." width="Image width" height="Image height" alt="For accessibility reasons">
+<a href="URL, like https://www.masonnet.org">Link text</a> (Takes you to a URL that is specified after href. Make sure to end it, otherwise the whole page will be a link!)
+<hr> (Adds a horizontal line, you don't need to end this one.)
+<br> (Adds a space, you don't need to end this one.)
+Learn more from me, or at w3schools.com!

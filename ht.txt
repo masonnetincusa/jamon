@@ -1,3 +1,8 @@
+Very short basic HTML tutorial
+by Mason Murphy
+masonnet.org
+2/26/2025
+
 <html> (Every HTML page starts with this)
 </html> (Every HTML page ends with this)
 <p>Text!</p> (Add text)
@@ -11,3 +16,11 @@
 <hr> (Adds a horizontal line, you don't need to end this one.)
 <br> (Adds a space, you don't need to end this one.)
 Learn more from me, or at w3schools.com!
+
+YOU NEED TO UPLOAD IMAGES TO THE WEB!
+The image URLs will be: https://jamon.masonnet.org/imagename.
+(Image name is the file name of the image, you can change it on GitHub.)
+
+Add file > Upload files.
+
+You can use images from other websites by copying the image URL from the image in the right click menu (Tap on the trackpad with two fingers at the same time).
